@@ -1,0 +1,14 @@
+# This is the app.yaml file for Google App Engine standard environment.
+# It's used to configure your app's settings and define the services that your app uses.
+# For more information about the app.yaml file, see:
+# https://cloud.google.com/appengine/docs/standard/python/config/appref
+
+runtime: go122
+service: default
+# This is the app.yaml file for Google App Engine standard environment.
+# It's used to configure your app's settings and define the services that your app uses.
+# For more information about the app.yaml file, see:
+# https://cloud.google.com/appengine/docs/standard/python/config/appref
+
+runtime: go122
+service: default
